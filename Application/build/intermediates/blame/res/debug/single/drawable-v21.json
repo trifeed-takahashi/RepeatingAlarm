@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/takahashimasatsugu/.android/build-cache/c61a0f6b0c1ef494a4113cc3ec1603b82c35955b/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/takahashimasatsugu/.android/build-cache/c61a0f6b0c1ef494a4113cc3ec1603b82c35955b/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/takahashimasatsugu/.android/build-cache/c61a0f6b0c1ef494a4113cc3ec1603b82c35955b/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/takahashimasatsugu/.android/build-cache/c61a0f6b0c1ef494a4113cc3ec1603b82c35955b/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

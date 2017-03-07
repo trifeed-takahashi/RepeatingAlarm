@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:18:5-49
+	android:versionName
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:24:5-37:19
+MERGED from [com.android.support:gridlayout-v7:25.0.1] /Users/takahashimasatsugu/.android/build-cache/666251f94a549e6d85c9be46539620b0a28b5515/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/takahashimasatsugu/.android/build-cache/054b13e79ac42c8acca1bc5d93cf8a4414af6178/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/takahashimasatsugu/.android/build-cache/c61a0f6b0c1ef494a4113cc3ec1603b82c35955b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /Users/takahashimasatsugu/.android/build-cache/9813077e3be45e5613003b5bbcc4deeae24f9b1b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/takahashimasatsugu/.android/build-cache/3474f722cbd212951f47018e730227335970f3be/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/takahashimasatsugu/.android/build-cache/7d229433af8c64f7f9aa34b5431759360b0dd209/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/takahashimasatsugu/.android/build-cache/ec7e494fb20c37c78e178f15216b32eb74afd44a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/takahashimasatsugu/.android/build-cache/3e57d8684a7188bb565fc97cb1ca911bb4a8d5e3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/takahashimasatsugu/.android/build-cache/bfbba7b12810099611018d9bc9dea33c8e802707/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/takahashimasatsugu/.android/build-cache/001281272b174ee7b65d10bdab7cf510ff02b74a/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /Users/takahashimasatsugu/.android/build-cache/ff18144c2c562319b06f9175d02566e64dde28e2/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:24:18-44
+	android:icon
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.repeatingalarm.MainActivity
+ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:30:19-51
+	android:uiOptions
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:31:19-63
+	android:name
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:29:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.0.1] /Users/takahashimasatsugu/.android/build-cache/666251f94a549e6d85c9be46539620b0a28b5515/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] /Users/takahashimasatsugu/.android/build-cache/054b13e79ac42c8acca1bc5d93cf8a4414af6178/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/takahashimasatsugu/.android/build-cache/c61a0f6b0c1ef494a4113cc3ec1603b82c35955b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] /Users/takahashimasatsugu/.android/build-cache/9813077e3be45e5613003b5bbcc4deeae24f9b1b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /Users/takahashimasatsugu/.android/build-cache/3474f722cbd212951f47018e730227335970f3be/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /Users/takahashimasatsugu/.android/build-cache/7d229433af8c64f7f9aa34b5431759360b0dd209/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] /Users/takahashimasatsugu/.android/build-cache/ec7e494fb20c37c78e178f15216b32eb74afd44a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] /Users/takahashimasatsugu/.android/build-cache/3e57d8684a7188bb565fc97cb1ca911bb4a8d5e3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/takahashimasatsugu/.android/build-cache/bfbba7b12810099611018d9bc9dea33c8e802707/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/takahashimasatsugu/.android/build-cache/001281272b174ee7b65d10bdab7cf510ff02b74a/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] /Users/takahashimasatsugu/.android/build-cache/ff18144c2c562319b06f9175d02566e64dde28e2/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /Users/takahashimasatsugu/.android/build-cache/c61a0f6b0c1ef494a4113cc3ec1603b82c35955b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/AndroidManifest.xml

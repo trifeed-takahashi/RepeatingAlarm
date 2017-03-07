@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/takahashimasatsugu/AndroidStudioProjects/RepeatingAlarm/Application/src/main/res/drawable-hdpi/tile.9.png"
+    }
+]
